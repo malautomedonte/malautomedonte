@@ -8,7 +8,7 @@ I am a freshly graduated student from an intense 9 week WebDev Bootcamp at Le Wa
 * :email:  You can contact me at [sertopico@gmail.com](mailto:sertopico@gmail.com)
 * :brain:  I am currently learning going through all the subjects I learned so far
 * :handshake:  I'm open to to any project and jobs involving the following languages or frameworks: JavaScript, node.js, Ruby, Ruby on Rails, HTML and CSS
-* :zap:  Little Vampire.
+
 ### Skills
 
 <p align="left">
