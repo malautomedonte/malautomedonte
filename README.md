@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 Full - Stack Web Developer
 --------------------------
-I am a freshly graduated student from an intense 9 week WebDev Bootcamp at Le Wagon. Coding and programming have always been something I wanted to do, although in the end I took different career paths, having studied archaeology and worked many years in the hospitality. Nonetheless my curiosity and the willingness to understand how softwares work from the inside out finally brought me to take the plunge and start a new chapter in my professional life through coding.
+I am a freshly graduated student after an intense 9 week WebDev Bootcamp at Le Wagon in Berlin. Coding and programming have always been something I wanted to do, although in the end I took different career paths, having studied archaeology and worked many years in the hospitality. Nonetheless my curiosity and the willingness to understand how softwares work from the inside out finally brought me to take the plunge and start a new chapter in my professional life through coding.
 
 * :earth_africa:  I'm based in Berlin
 * :email:  You can contact me at [sertopico@gmail.com](mailto:sertopico@gmail.com)
